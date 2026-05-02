@@ -13,4 +13,4 @@
 1. Clone the repository.
 2. Replace `VAS_API_KEY` in the script with your [OMDb API key](http://www.omdbapi.com/apikey.aspx).
 3. Ensure `movies.csv` is in the same folder.
-4. Run the script: `python movie_pipeline.py`
+4. Run the script: `Koriscenje_web_servisa_za_prosirivanje_filmske_arhive.py`
